@@ -2,12 +2,6 @@
 
 Landing page responsiva em HTML, CSS e JavaScript puro, sem frameworks.
 
-## Como executar
-1. Extraia o ZIP.
-2. Abra a pasta no Visual Studio Code.
-3. Abra `index.html` no navegador ou use a extensão Live Server.
-4. É necessária conexão à internet para carregar as fontes e imagens externas.
-
 ## Dados já configurados
 - **Nome:** Barbearia do Gazão
 - **WhatsApp:** (73) 98137-5362
